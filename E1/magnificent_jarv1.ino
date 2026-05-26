@@ -33,8 +33,8 @@ void loop()
   delay(100);
   digitalWrite(2, LOW);
 
-  analogWrite(3, 255);
-  analogWrite(4, 255);
+  analogWrite(3, 125);
+  analogWrite(4, 125);
 
   delay(500);
 
