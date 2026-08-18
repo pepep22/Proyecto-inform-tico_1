@@ -1,1 +1,0 @@
-# Proyecto-inform-tico_1
