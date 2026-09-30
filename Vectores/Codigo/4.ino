@@ -5,7 +5,7 @@ int cantidad = 8;
 void setup() {
   pinMode(led, OUTPUT);
   Serial.begin(9600);
-  Serial.println("Iniciando secuencia de luces...");
+  Serial.println("Iniciando secuencia de luces");
 }
 
 void loop() {
