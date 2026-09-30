@@ -7,7 +7,7 @@ void setup() {
   for (int i = 0; i < cantidad; i++) {
     pinMode(leds[i], OUTPUT);
   }
-  Serial.println("Iniciando escalera de luces...");
+  Serial.println("Iniciando escalera de luces");
 }
 
 void loop() {
